@@ -1,0 +1,6 @@
+{
+  "name": "Smart Undo-Redo Text Editor with Task Scheduler",
+  "description": "Data Structure Visualizer and Workbench powered by 8 manually implemented data structures in TypeScript: Doubly Linked List, Undo/Redo Stacks, Trie, Hash Table, Dynamic Array, FIFO Queue, Max-Heap, and Binary Search Tree.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
